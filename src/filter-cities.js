@@ -18,4 +18,8 @@ export function getItems(filter) {
 }
 
 // This is to avoid some issues https://github.com/kentcdodds/react-performance/issues/115
-export default class makeFilterCitiesWorker {}
+export default class MakeFilterCitiesWorker {
+  constructor() {
+    // constructor implementation
+  }
+}
