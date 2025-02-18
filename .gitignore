@@ -6,3 +6,4 @@ build
 .vscode/
 .eslintcache
 .gitpod.yml
+.github/workflows/validate.yml
